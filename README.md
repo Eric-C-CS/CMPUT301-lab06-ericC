@@ -1,4 +1,4 @@
-# CMPUT301-lab05-ericC
+# CMPUT301-lab06-ericC
 
 ## Student Details
 
